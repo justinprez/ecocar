@@ -2,7 +2,7 @@
 
 The purpose of this project was to implement a simple collision detection and prevention algorithm for a car travelling on a three lane highway. The simulated car will prevent collisions by monitoring the distance and speed neighbouring vehicles. This project was originally created as a submission for EcoCAR at McMaster University. 
 
-[example](images/example.gif)
+![example](images/example.gif)
 
 Requirements to run:
 - [python3](https://www.python.org/downloads/)
