@@ -9,3 +9,8 @@ Requirements to run:
 - [pygame](https://www.pygame.org/download.shtml)
 
 Once you have both of these installed just run the display.py file and the demo will pop up with the prompt to start.
+
+## Group Member
+- [Justin Rosner](https://github.com/justinrosner)
+- [Janek Wolos]()
+- [Justin Prez](https://github.com/justinprez)
